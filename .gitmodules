@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/secret-manager-crypto-utils-browser-tester-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/secret-manager-crypto-utils-browser-tester-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
